@@ -1,10 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ADMIN\\Desktop\\Github\\ITSS_N08\\Client\\",
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\ITSS_N08\\Client\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4293AA6D-1069-4BEF-8308-D8C5601D7FF9}|Client.csproj|c:\\users\\admin\\desktop\\github\\itss_n08\\client\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{4293AA6D-1069-4BEF-8308-D8C5601D7FF9}|Client.csproj|c:\\users\\admin\\source\\repos\\itss_n08\\client\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{4293AA6D-1069-4BEF-8308-D8C5601D7FF9}|Client.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4293AA6D-1069-4BEF-8308-D8C5601D7FF9}|Client.csproj|c:\\users\\admin\\source\\repos\\itss_n08\\client\\client.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{4293AA6D-1069-4BEF-8308-D8C5601D7FF9}|Client.csproj|solutionrelative:client.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,15 +18,27 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Client",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ITSS_N08\\Client\\Client.csproj",
+              "RelativeDocumentMoniker": "Client.csproj",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\ITSS_N08\\Client\\Client.csproj",
+              "RelativeToolTip": "Client.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-23T15:09:42.487Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\Github\\ITSS_N08\\Client\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ITSS_N08\\Client\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\Github\\ITSS_N08\\Client\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\ITSS_N08\\Client\\Form1.cs [Design]",
               "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-19T19:33:13.161Z",
